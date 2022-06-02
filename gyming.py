@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("Tatti khani achi baat nahi hai")
+st.write("I wish i could learn to interact with database and private sheets")
 
 # streamlit_app.py
 
